@@ -1,0 +1,16 @@
+Employee ID,First Name,Last Name,Department,Position,Salary
+101,John,Doe,Marketing,Manager,50000
+102,Jane,Smith,Sales,Associate,35000
+103,Michael,Johnson,Finance,Analyst,45000
+104,Emily,Williams,HR,Coordinator,40000
+105,David,Brown,IT,Developer,55000
+106,Linda,Jones,Finance,Accountant,46000
+107,Robert,Miller,Sales,Executive,38000
+108,Patricia,Davis,Marketing,Executive,39000
+109,James,Garcia,IT,System Admin,52000
+110,Barbara,Martinez,HR,Manager,48000
+111,William,Rodriguez,Operations,Supervisor,47000
+112,Susan,Hernandez,Customer Service,Representative,33000
+113,Joseph,Lopez,Sales,Manager,51000
+114,Karen,Gonzalez,Finance,Senior Analyst,53000
+115,Thomas,Wilson,IT,Support Engineer,44000
